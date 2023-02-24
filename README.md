@@ -3,7 +3,7 @@
   <p align="center">
   Devellopeur passionné de 18ans en premiére année de Cursus Master Ingénieurie. <br>
   J'adore me lancer dans de nouveaux projets et découvrir l'immense monde du developement !
-  Je code sur les logiciels Jetbrain et je maîtrise Photoshop, Premiere pro et les logiciels de bureaunautiques de base (excel, word notion etc...)
+  Je code sur les logiciels Jetbrain et je maîtrise Photoshop, Premiere pro et les logiciels bureaunautique de base (excel, word notion etc...)
   </p>
   <p align="center">
   <a href="https://discord.gg/users/539118593355284482">
@@ -64,6 +64,6 @@
 
 <div align="center">
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0ts2k701if0l3nur6prtzq85s&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0ts2k701if0l3nur6prtzq85s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
