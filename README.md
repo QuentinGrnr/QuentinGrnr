@@ -1,4 +1,4 @@
-<img src="https://wallpapercave.com/w/wp10471333.png" />
+<img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=00C301&style=flat" alt="ShadowMikado" />
 
 <!--
 **ClueXIII/ClueXIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
