@@ -60,4 +60,10 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=ClueXIII&label=Profile%20views&color=00C301&style=flat" alt="ClueXIII" />
 </p>
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=0ts2k701if0l3nur6prtzq85s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]]
+<br>
+
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0ts2k701if0l3nur6prtzq85s&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
