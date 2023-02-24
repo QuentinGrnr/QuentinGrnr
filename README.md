@@ -1,4 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=00C301&style=flat" alt="ShadowMikado" />
+</p align="center">
+<img src="https://komarev.com/ghpvc/?username=ClueXIII&label=Profile%20views&color=00C301&style=flat" alt="ShadowMikado" />
 
 <!--
 **ClueXIII/ClueXIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
