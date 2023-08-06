@@ -6,9 +6,9 @@
   Je code sur les logiciels Jetbrain et je maîtrise Photoshop, Premiere pro et les logiciels bureaunautique de base (excel, word notion etc...)
   </p>
   <p align="center">
-    ![image](https://github.com/ClueXIII/ClueXIII/assets/109299545/74f2365d-f55f-4850-9621-350268a2b1f5)
 
   <a href="https://discord.gg/users/539118593355284482">
+    <img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
   <p>
 </p>
@@ -18,6 +18,7 @@
 <h2>👨‍💻 - Languages:</h2>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://github.com/ClueXIII/ClueXIII/assets/109299545/1d3d3ea3-25b3-416d-aba6-e7797bab5446)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,6 +26,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Pyhton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
+
+
 
 </p>
 
