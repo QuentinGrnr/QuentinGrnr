@@ -6,8 +6,9 @@
   Je code sur les logiciels Jetbrain et je maîtrise Photoshop, Premiere pro et les logiciels bureaunautique de base (excel, word notion etc...)
   </p>
   <p align="center">
+    ![image](https://github.com/ClueXIII/ClueXIII/assets/109299545/74f2365d-f55f-4850-9621-350268a2b1f5)
+
   <a href="https://discord.gg/users/539118593355284482">
-  <img align="center" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
   <p>
 </p>
