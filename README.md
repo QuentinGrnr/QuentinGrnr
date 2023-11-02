@@ -3,7 +3,7 @@
   <p align="center">
   Developpeur passionné de 18ans en seconde année de Cursus Master Ingénieurie. <br>
   J'adore me lancer dans de nouveaux projets et découvrir l'immense monde du developement !
-  Je code sur les logiciels Jetbrain et je maîtrise Photoshop, Premiere pro et les logiciels bureaunautique de base (excel, word notion etc...)
+  Je code sur les logiciels Jetbrain et visual studio code et je maîtrise Photoshop, Premiere pro et les logiciels bureaunautique de base (excel, word notion etc...)
   </p>
   <p align="center">
 
