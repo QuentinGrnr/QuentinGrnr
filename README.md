@@ -1,9 +1,8 @@
 <p align="center">
   <h2>🤔 - Qui suis-je ?</h2>
   <p align="center">
-  Developpeur passionné de 20ans en troisiéme année de Cursus Master Ingénieurie. <br>
+  Developpeur passionné de 21ans en quatrième année de Cursus Master Ingénieurie. <br>
   J'adore me lancer dans de nouveaux projets et découvrir l'immense monde du developement !
-  Je code sur les logiciels Jetbrain et visual studio code. De plus, je maîtrise Photoshop, Premiere pro et les logiciels bureaunautique de base (excel, word notion etc...)
   </p>
   <p align="center">
 
