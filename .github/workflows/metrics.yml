@@ -5,6 +5,10 @@ on:
     # Runs daily at 04:47 UTC
     - cron: "47 4 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    # Its own commit must not trigger a new render
+    paths-ignore: [assets/metrics.svg]
 
 concurrency:
   group: metrics
