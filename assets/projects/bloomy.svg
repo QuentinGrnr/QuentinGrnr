@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340"
      width="1200" height="340" role="img"
-     aria-label="Bloomy - Lecteur de santé connecté BLE">
-  <title>Bloomy - Lecteur de santé connecté BLE</title>
+     aria-label="Bloomy - Connected BLE health card reader">
+  <title>Bloomy - Connected BLE health card reader</title>
   <defs>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#f0845c" stop-opacity="0"/>
@@ -63,17 +63,17 @@
 
     <!-- Right: project details -->
     <circle cx="434" cy="52" r="4" fill="#f0845c"/>
-    <text class="label" x="446" y="56">SANTÉ CONNECTÉE · BLE</text>
+    <text class="label" x="446" y="56">CONNECTED HEALTH · BLE</text>
     <text class="title" x="430" y="98">Bloomy</text>
-    <text class="subtitle" x="430" y="126">Lecteur de santé connecté BLE</text>
-    <text class="desc" x="430" y="150">Terminal de télétransmission médicale de 93 g, piloté en BLE depuis mobile.</text>
-    <text class="bullet" x="430" y="176"><tspan fill="#f0845c">▸</tspan>  Mises à jour firmware OTA (nRF) et USB-C (STM32)</text>
-    <text class="bullet" x="430" y="200"><tspan fill="#f0845c">▸</tspan>  Plugin Capacitor : monolithe 5 000 lignes ➔ Command Pattern</text>
-    <text class="bullet" x="430" y="224"><tspan fill="#f0845c">▸</tspan>  CI/CD mobile Fastlane + GitLab CI jusqu'aux stores</text>
-    <text class="bullet" x="430" y="248"><tspan fill="#f0845c">▸</tspan>  App SAV d'audit matériel et réinitialisation usine</text>
+    <text class="subtitle" x="430" y="126">Connected BLE health card reader</text>
+    <text class="desc" x="430" y="150">93 g medical claims terminal, driven over BLE from mobile.</text>
+    <text class="bullet" x="430" y="176"><tspan fill="#f0845c">▸</tspan>  Firmware updates over the air (nRF) and USB-C (STM32)</text>
+    <text class="bullet" x="430" y="200"><tspan fill="#f0845c">▸</tspan>  Capacitor plugin: 5,000-line monolith ➔ Command Pattern</text>
+    <text class="bullet" x="430" y="224"><tspan fill="#f0845c">▸</tspan>  Mobile CI/CD with Fastlane + GitLab CI up to the stores</text>
+    <text class="bullet" x="430" y="248"><tspan fill="#f0845c">▸</tspan>  Support app for hardware audits and factory resets</text>
     <line x1="430" y1="262" x2="1170" y2="262" stroke="#1e293b" stroke-width="1"/>
-    <text class="stat-value" x="430" y="296" fill="#f0845c">10 000+</text>
-    <text class="stat-label" x="430" y="314">lecteurs en production</text>
+    <text class="stat-value" x="430" y="296" fill="#f0845c">10,000+</text>
+    <text class="stat-label" x="430" y="314">readers in production</text>
 
     <rect x="0" y="337" width="1200" height="3" fill="url(#glow)"/>
   </g>

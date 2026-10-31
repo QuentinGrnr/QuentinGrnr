@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340"
      width="1200" height="340" role="img"
-     aria-label="Master Ingénierie Logicielle - ILSEN · Cursus Master en Ingénierie (CMI)">
-  <title>Master Ingénierie Logicielle - ILSEN · Cursus Master en Ingénierie (CMI)</title>
+     aria-label="Software Engineering Master's - ILSEN · Master's in Engineering program (CMI)">
+  <title>Software Engineering Master's - ILSEN · Master's in Engineering program (CMI)</title>
   <defs>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#ec4449" stop-opacity="0"/>
@@ -66,20 +66,20 @@
 
     <!-- Right: project details -->
     <circle cx="434" cy="52" r="4" fill="#ec4449"/>
-    <text class="label" x="446" y="56">FORMATION · AVIGNON UNIVERSITÉ</text>
-    <text class="title" x="430" y="98">Master Ingénierie Logicielle</text>
-    <text class="subtitle" x="430" y="126">ILSEN · Cursus Master en Ingénierie (CMI)</text>
-    <text class="desc" x="430" y="150">Du bas niveau jusqu'au web.</text>
-    <text class="bullet" x="430" y="176"><tspan fill="#ec4449">▸</tspan>  GetDroned : nœud de réseau distribué en Rust (équipe internationale)</text>
-    <text class="bullet" x="430" y="200"><tspan fill="#ec4449">▸</tspan>  Compilateur Pascal ➔ assembleur x86-64 (C++)</text>
-    <text class="bullet" x="430" y="224"><tspan fill="#ec4449">▸</tspan>  Comptage de personnes par capteurs (C++)</text>
-    <text class="bullet" x="430" y="248"><tspan fill="#ec4449">▸</tspan>  Monitoring de parc : Shell, Flask, SQLite</text>
+    <text class="label" x="446" y="56">EDUCATION · AVIGNON UNIVERSITY</text>
+    <text class="title" x="430" y="98">Software Engineering Master's</text>
+    <text class="subtitle" x="430" y="126">ILSEN · Master's in Engineering program (CMI)</text>
+    <text class="desc" x="430" y="150">From low-level code to the web.</text>
+    <text class="bullet" x="430" y="176"><tspan fill="#ec4449">▸</tspan>  GetDroned: distributed network node in Rust (international team)</text>
+    <text class="bullet" x="430" y="200"><tspan fill="#ec4449">▸</tspan>  Pascal compiler ➔ x86-64 assembly (C++)</text>
+    <text class="bullet" x="430" y="224"><tspan fill="#ec4449">▸</tspan>  Sensor-based people counter (C++)</text>
+    <text class="bullet" x="430" y="248"><tspan fill="#ec4449">▸</tspan>  IT fleet monitoring: Shell, Flask, SQLite</text>
     <line x1="430" y1="262" x2="1170" y2="262" stroke="#1e293b" stroke-width="1"/>
     <text class="stat-value" x="430" y="296" fill="#ec4449">M2</text>
-    <text class="stat-label" x="430" y="314">en alternance chez CBA</text>
-    <line x1="599.2" y1="280" x2="599.2" y2="312" stroke="#1e293b" stroke-width="1"/>
-    <text class="stat-value" x="623.2" y="296" fill="#ec4449">CMI</text>
-    <text class="stat-label" x="623.2" y="314">cursus ingénieur</text>
+    <text class="stat-label" x="430" y="314">work-study at CBA</text>
+    <line x1="566.2" y1="280" x2="566.2" y2="312" stroke="#1e293b" stroke-width="1"/>
+    <text class="stat-value" x="590.2" y="296" fill="#ec4449">CMI</text>
+    <text class="stat-label" x="590.2" y="314">engineering track</text>
 
     <rect x="0" y="337" width="1200" height="3" fill="url(#glow)"/>
   </g>

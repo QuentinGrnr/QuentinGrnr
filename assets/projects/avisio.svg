@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340"
      width="1200" height="340" role="img"
-     aria-label="AviSio - Boîtier de retransmission de cours inclusif">
-  <title>AviSio - Boîtier de retransmission de cours inclusif</title>
+     aria-label="AviSio - Inclusive lecture streaming box">
+  <title>AviSio - Inclusive lecture streaming box</title>
   <defs>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#f5a623" stop-opacity="0"/>
@@ -51,19 +51,19 @@
 
     <!-- Right: project details -->
     <circle cx="434" cy="52" r="4" fill="#f5a623"/>
-    <text class="label" x="446" y="56">EMBARQUÉ · ACCESSIBILITÉ</text>
+    <text class="label" x="446" y="56">EMBEDDED · ACCESSIBILITY</text>
     <text class="title" x="430" y="98">AviSio</text>
-    <text class="subtitle" x="430" y="126">Boîtier de retransmission de cours inclusif</text>
-    <text class="desc" x="430" y="150">Cours en direct pour les étudiants en situation de handicap.</text>
-    <text class="bullet" x="430" y="176"><tspan fill="#f5a623">▸</tspan>  Raspberry Pi sous Linux, caméra / micro plug-and-play</text>
-    <text class="bullet" x="430" y="200"><tspan fill="#f5a623">▸</tspan>  Flux RTMP sous tunnel VPN vers l'université</text>
-    <text class="bullet" x="430" y="224"><tspan fill="#f5a623">▸</tspan>  Interface tactile avec retour vidéo et chat</text>
+    <text class="subtitle" x="430" y="126">Inclusive lecture streaming box</text>
+    <text class="desc" x="430" y="150">Live lectures for students with disabilities.</text>
+    <text class="bullet" x="430" y="176"><tspan fill="#f5a623">▸</tspan>  Raspberry Pi on Linux, plug-and-play camera / mic</text>
+    <text class="bullet" x="430" y="200"><tspan fill="#f5a623">▸</tspan>  RTMP stream over a VPN tunnel to the university</text>
+    <text class="bullet" x="430" y="224"><tspan fill="#f5a623">▸</tspan>  Touch interface with video preview and chat</text>
     <line x1="430" y1="262" x2="1170" y2="262" stroke="#1e293b" stroke-width="1"/>
     <text class="stat-value" x="430" y="296" fill="#f5a623">2024</text>
-    <text class="stat-label" x="430" y="314">en service dans les amphis</text>
-    <line x1="625.6" y1="280" x2="625.6" y2="312" stroke="#1e293b" stroke-width="1"/>
-    <text class="stat-value" x="649.6" y="296" fill="#f5a623">0</text>
-    <text class="stat-label" x="649.6" y="314">manipulation côté enseignant</text>
+    <text class="stat-label" x="430" y="314">in use in lecture halls</text>
+    <line x1="605.8" y1="280" x2="605.8" y2="312" stroke="#1e293b" stroke-width="1"/>
+    <text class="stat-value" x="629.8" y="296" fill="#f5a623">0</text>
+    <text class="stat-label" x="629.8" y="314">setup steps for teachers</text>
 
     <rect x="0" y="337" width="1200" height="3" fill="url(#glow)"/>
   </g>

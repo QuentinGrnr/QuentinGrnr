@@ -9,39 +9,39 @@
 </p>
 
 <p align="center">
-  En <strong>M2 Ingénierie Logicielle</strong> (ILSEN / CMI) et en alternance chez <strong>CBA Informatique Libérale</strong>, je conçois les passerelles natives mobiles (Kotlin / Swift), la communication BLE et le pilotage firmware de dispositifs de santé connectés.
+  Final-year <strong>Software Engineering Master's</strong> student (ILSEN / CMI) on a work-study contract at <strong>CBA Informatique Libérale</strong>, I build native mobile bridges (Kotlin / Swift), BLE communication and firmware control for connected health devices.
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Domaine                       | Technologies & Outils                                                                                                              |
+| Domain                        | Technologies & Tools                                                                                                               |
 | :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
 | **Mobile**              | `Kotlin` `Swift` `Java` `Capacitor` `Ionic` `Angular` `React` `TypeScript`                                         |
 | **Hardware & IoT**      | `Bluetooth LE` `STM32` `Nordic nRF` `DFU / Bootloader` `ISO 7816 / APDU` `Raspberry Pi` `C++`                        |
-| **Systèmes & Backend** | `Rust` `Jakarta EE` `GraphQL` `Prisma ORM` `RxDB (Offline-First)` `MySQL`                                              |
+| **Systems & Backend**  | `Rust` `Jakarta EE` `GraphQL` `Prisma ORM` `RxDB (Offline-First)` `MySQL`                                              |
 | **CI/CD & DevOps**      | `GitLab CI/CD` `Fastlane (Ruby)` `Firebase App Distribution` `TestFlight` `Docker`                                       |
-| **Tooling & IA**        | `Gemini & Antigravity` `Claude Code CLI` `Multi-Agentic Workflows` `Model Context Protocol (MCP)` `Obsidian` `ClickUp` |
+| **Tooling & AI**        | `Gemini & Antigravity` `Claude Code CLI` `Multi-Agentic Workflows` `Model Context Protocol (MCP)` `Obsidian` `ClickUp` |
 
 ---
 
-### 🚀 Projets & Réalisations
+### 🚀 Projects & Achievements
 
 <p align="center">
-  <img src="./assets/projects/bloomy.svg" alt="Bloomy - Lecteur de santé connecté BLE : +10 000 lecteurs en production" width="100%">
+  <img src="./assets/projects/bloomy.svg" alt="Bloomy - Connected BLE health card reader: 10,000+ readers in production" width="100%">
 </p>
 
 <p align="center">
-  <img src="./assets/projects/avisio.svg" alt="AviSio - Boîtier de retransmission de cours inclusif, en service dans les amphis depuis 2024" width="100%">
+  <img src="./assets/projects/avisio.svg" alt="AviSio - Inclusive lecture streaming box, in use in lecture halls since 2024" width="100%">
 </p>
 
 <p align="center">
-  <img src="./assets/projects/plutonium.svg" alt="Plutonium MCPE - Serveur Minecraft Bedrock : +100 000 joueurs, 2 ans de lead technique, 5 ans d'administration" width="100%">
+  <img src="./assets/projects/plutonium.svg" alt="Plutonium MCPE - Minecraft Bedrock server: 100,000+ players, 2 years as tech lead, 5 years of administration" width="100%">
 </p>
 
 <p align="center">
-  <img src="./assets/projects/master.svg" alt="Master Ingénierie Logicielle (ILSEN / CMI, Avignon Université) : compilateur Pascal vers x86-64, GetDroned (nœud de réseau distribué en Rust), comptage de personnes par capteurs, monitoring de parc informatique" width="100%">
+  <img src="./assets/projects/master.svg" alt="Software Engineering Master's (ILSEN / CMI, Avignon University): GetDroned (distributed network node in Rust), Pascal to x86-64 compiler, sensor-based people counter, IT fleet monitoring" width="100%">
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img alt="Statistiques GitHub et langages les plus utilisés" src="./assets/metrics.svg">
+  <img alt="GitHub stats and most used languages" src="./assets/metrics.svg">
 </p>
 
 <p align="center">
@@ -63,5 +63,5 @@
 ---
 
 <p align="center">
-  <sub>Passionné par l'apprentissage continu et l'exploration technique, encore plus à l'ère de l'IA où apprendre, expérimenter et repousser ses limites n'a jamais été aussi stimulant et accessible.</sub>
+  <sub>Driven by continuous learning and technical exploration, even more so in the age of AI, where learning, experimenting and pushing your limits has never been so exciting and accessible.</sub>
 </p>
