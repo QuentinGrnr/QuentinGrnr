@@ -7,6 +7,8 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    # The daily metrics commit should not regenerate the snake
+    paths-ignore: [assets/metrics.svg]
 
 concurrency:
   group: snake

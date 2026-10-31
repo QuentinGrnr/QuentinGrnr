@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340"
+     width="1200" height="340" role="img"
+     aria-label="Bloomy - Lecteur de santé connecté BLE">
+  <title>Bloomy - Lecteur de santé connecté BLE</title>
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f0845c" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#f0845c" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#f0845c" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card">
+      <rect x="0" y="0" width="1200" height="340" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <style><![CDATA[
+    .ascii     { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #f0845c; white-space: pre; }
+    .ascii-sub { font: 600 10px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #f0845c; fill-opacity: 0.7; }
+    .label     { font: 700 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #f0845c; letter-spacing: 1.5px; }
+    .title     { font: 700 34px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #f8fafc; letter-spacing: -0.5px; }
+    .subtitle  { font: 500 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #38bdf8; }
+    .desc      { font: 400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #94a3b8; }
+    .bullet    { font: 400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #cbd5e1; }
+    .stat-value { font: 700 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; letter-spacing: -0.3px; }
+    .stat-label { font: 400 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #64748b; }
+    .ascii-panel { fill: #0b1120; stroke: #1e293b; stroke-width: 1; }
+    .cursor { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  ]]></style>
+
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="1200" height="340" fill="#0b0f19"/>
+
+    <!-- Left: ASCII art panel -->
+    <rect class="ascii-panel" x="30" y="24" width="330" height="292" rx="10"/>
+    <circle cx="48" cy="40" r="3.5" fill="#ef4444" fill-opacity="0.6"/>
+    <circle cx="60" cy="40" r="3.5" fill="#eab308" fill-opacity="0.6"/>
+    <circle cx="72" cy="40" r="3.5" fill="#22c55e" fill-opacity="0.6"/>
+    <text class="ascii-sub" x="342" y="44" text-anchor="end">~/bloomy<tspan class="cursor">_</tspan></text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="43.5" textLength="145.2" lengthAdjust="spacing">       .-------------.</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="56.0" textLength="145.2" lengthAdjust="spacing">       | 80250000 54 |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="68.5" textLength="145.2" lengthAdjust="spacing">       |=============|</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="81.0" textLength="165.0" lengthAdjust="spacing">    .--'-------------'--.</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="93.5" textLength="171.6" lengthAdjust="spacing">   /  '               '  \</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="106.0" textLength="178.2" lengthAdjust="spacing">  /                       \</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="118.5" textLength="184.8" lengthAdjust="spacing"> |                         |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="131.0" textLength="184.8" lengthAdjust="spacing"> |                         |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="143.5" textLength="184.8" lengthAdjust="spacing"> |       b l o o m y       |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="156.0" textLength="184.8" lengthAdjust="spacing"> |                         |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="168.5" textLength="184.8" lengthAdjust="spacing"> |           (=)           |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="181.0" textLength="191.4" lengthAdjust="spacing"> |                         |]</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="193.5" textLength="191.4" lengthAdjust="spacing"> |                         |]</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="206.0" textLength="191.4" lengthAdjust="spacing"> |                         |]</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="218.5" textLength="184.8" lengthAdjust="spacing"> |      .  :  .            |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="231.0" textLength="184.8" lengthAdjust="spacing"> |    :  . .: .            |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="243.5" textLength="184.8" lengthAdjust="spacing"> |   . .:  .               |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="256.0" textLength="184.8" lengthAdjust="spacing"> |   .\\ | //.             |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="268.5" textLength="184.8" lengthAdjust="spacing"> |  ( \\\|/// )            |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="281.0" textLength="184.8" lengthAdjust="spacing"> |   '-.___.-'             |</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="293.5" textLength="178.2" lengthAdjust="spacing">  \                       /</text>
+    <text class="ascii" xml:space="preserve" x="99.3" y="306.0" textLength="184.8" lengthAdjust="spacing">   '._____________________.'</text>
+
+    <!-- Right: project details -->
+    <circle cx="434" cy="52" r="4" fill="#f0845c"/>
+    <text class="label" x="446" y="56">SANTÉ CONNECTÉE · BLE</text>
+    <text class="title" x="430" y="98">Bloomy</text>
+    <text class="subtitle" x="430" y="126">Lecteur de santé connecté BLE</text>
+    <text class="desc" x="430" y="150">Terminal de télétransmission médicale de 93 g, piloté en BLE depuis mobile.</text>
+    <text class="bullet" x="430" y="176"><tspan fill="#f0845c">▸</tspan>  Mises à jour firmware OTA (nRF) et USB-C (STM32)</text>
+    <text class="bullet" x="430" y="200"><tspan fill="#f0845c">▸</tspan>  Plugin Capacitor : monolithe 5 000 lignes ➔ Command Pattern</text>
+    <text class="bullet" x="430" y="224"><tspan fill="#f0845c">▸</tspan>  CI/CD mobile Fastlane + GitLab CI jusqu'aux stores</text>
+    <text class="bullet" x="430" y="248"><tspan fill="#f0845c">▸</tspan>  App SAV d'audit matériel et réinitialisation usine</text>
+    <line x1="430" y1="262" x2="1170" y2="262" stroke="#1e293b" stroke-width="1"/>
+    <text class="stat-value" x="430" y="296" fill="#f0845c">10 000+</text>
+    <text class="stat-label" x="430" y="314">lecteurs en production</text>
+
+    <rect x="0" y="337" width="1200" height="3" fill="url(#glow)"/>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="16"
+        fill="none" stroke="#1e293b" stroke-width="1"/>
+</svg>

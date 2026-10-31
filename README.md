@@ -28,49 +28,28 @@
 
 ### 🚀 Projets & Réalisations
 
-#### 🩺 Bloomy — *Lecteur de santé connecté BLE*
+<p align="center">
+  <img src="./assets/projects/bloomy.svg" alt="Bloomy - Lecteur de santé connecté BLE : +10 000 lecteurs en production" width="100%">
+</p>
 
-- **Projet :** Terminal de télétransmission médicale 93g synchronisé en BLE avec les applications mobiles des soignants.
-- **Réalisations :**
-  - Refonte architecture plugin Capacitor : monolithe 5 000 lignes ➔ *Command Pattern*, *Registry* et *Context Object* (+50 actions isolées).
-  - Mises à jour firmware (DFU) : flashage sans fil OTA via BLE (Nordic nRF) et flashage filaire USB-C en mode bootloader (STM32).
-  - Pipeline CI/CD mobile : Fastlane + GitLab CI (signature auto, livraison continue Firebase App Distribution et publication stores).
-  - App de maintenance SAV : application mobile dédiée (Ionic / Angular) d'audit matériel instantané et réinitialisation usine standardisée.
-- **📍 Checkpoint :** 🟢 **+10 000 lecteurs déployés en production** · 📉 **< 2.5% de retour SAV** · ⚡ **10 min gagnées / build**
+<p align="center">
+  <img src="./assets/projects/avisio.svg" alt="AviSio - Boîtier de retransmission de cours inclusif, en service dans les amphis depuis 2024" width="100%">
+</p>
 
----
+<p align="center">
+  <img src="./assets/projects/plutonium.svg" alt="Plutonium MCPE - Serveur Minecraft Bedrock : +100 000 joueurs, 2 ans de lead technique, 5 ans d'administration" width="100%">
+</p>
 
-#### 🎓 AviSio — *Boîtier de retransmission de cours inclusif*
-
-- **Projet :** Boîtier autonome permettant aux étudiants en situation de handicap de suivre les cours universitaires à distance en direct.
-- **Réalisations :**
-  - Système embarqué autonome sous Linux (Raspberry Pi) avec détection plug-and-play caméra / micro (zéro manipulation enseignant).
-  - Diffusion vidéo/audio directe via flux RTMP sous tunnel VPN sécurisé vers l'université.
-  - Interface tactile embarquée avec retour vidéo temps réel et chat interactif.
-- **📍 Checkpoint :** 🟢 **En service actif dans les amphis universitaires** depuis 2024
-
----
-
-#### 🎮 Plutonium MCPE — *Serveur Minecraft Bedrock*
-
-- **Projet :** Serveur moddé Minecraft Bedrock multijoueur francophone à fort trafic (Plutonium SAS).
-- **Réalisations :**
-  - Dév de fonctionnalités serveur, mécaniques de gameplay et plugins sous PocketMine-MP (PHP).
-  - Conception et développement du **Plutonium Wrapped** : récapitulatif annuel interactif des statistiques de chaque joueur (style Spotify Wrapped).
-  - Lead technique & gestion de projet : coordination d'une équipe technique bénévole et gestion des releases.
-- **📍 Checkpoint :** 🟢 **+100 000 comptes uniques accueillis** · ⏱️ **2 années de développement & lead technique · 5 années d'administration**
+<p align="center">
+  <img src="./assets/projects/master.svg" alt="Master Ingénierie Logicielle (ILSEN / CMI, Avignon Université) : compilateur Pascal vers x86-64, GetDroned (nœud de réseau distribué en Rust), comptage de personnes par capteurs, monitoring de parc informatique" width="100%">
+</p>
 
 ---
 
 ### 📊 GitHub
 
 <p align="center">
-  <a href="https://github.com/QuentinGrnr">
-    <img height="160" alt="Quentin's GitHub stats" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=QuentinGrnr&show_icons=true&hide_border=false&bg_color=080c14&border_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8">
-  </a>
-  <a href="https://github.com/QuentinGrnr">
-    <img height="160" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=QuentinGrnr&hide_border=false&border_color=1e293b&background=080c14&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&dates=64748b">
-  </a>
+  <img alt="Statistiques GitHub et langages les plus utilisés" src="./assets/metrics.svg">
 </p>
 
 <p align="center">
@@ -84,5 +63,5 @@
 ---
 
 <p align="center">
-  <sub>Passionné par l'apprentissage continu et l'exploration technique — encore plus à l'ère de l'IA où apprendre, expérimenter et repousser ses limites n'a jamais été aussi stimulant et accessible.</sub>
+  <sub>Passionné par l'apprentissage continu et l'exploration technique, encore plus à l'ère de l'IA où apprendre, expérimenter et repousser ses limites n'a jamais été aussi stimulant et accessible.</sub>
 </p>

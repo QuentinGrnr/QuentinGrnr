@@ -1,0 +1,30 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    # Runs daily at 04:47 UTC
+    - cron: "47 4 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    name: Generate metrics SVG
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Render metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Personal access token (no scope needed), stored as a repository secret
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics.svg
+          config_timezone: Europe/Paris
+          base: header
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 2%
